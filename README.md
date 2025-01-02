@@ -1,5 +1,5 @@
-A nicer hexdump in C#/WPF
+A nicer hexdump printer for C# Console/WPF
 
-![screenshot](C:\Users\Chris\OneDrive\Code\hexdump\hexdump.png)
+![](https://github.com/wh0am15533/hexdump/blob/master/hexdump.png)
 
-Visit my website at http://lomont.org
+Visit David Lamonts website at http://lomont.org
